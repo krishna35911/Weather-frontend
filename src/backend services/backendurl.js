@@ -1,1 +1,1 @@
-export const backendurl='http://localhost:4000'
+export const backendurl='https://weather-server-rho.vercel.app'
